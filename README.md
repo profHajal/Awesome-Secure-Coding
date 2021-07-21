@@ -54,8 +54,8 @@
 * Guidelines for Identifying Software Security Vulnerabilities
 * Identifying Vulnerabilities in an Application
 * Cracking a Password Hash
-  * [crackstation](https://crackstation.net/) 
-  * [password-cracking-with-hashcat](https://cryptokait.com/2020/02/24/password-cracking-with-hashcat/)
+  * [Password Hash Cracker](https://crackstation.net/) - crackstation.net
+  * [Password Cracking with Hashcat](https://cryptokait.com/2020/02/24/password-cracking-with-hashcat/) - cryptokait.com
   * [How to crack passwords with Hashcat](https://cyberrunner.medium.com/how-to-crack-passwords-with-hashcat-a9fb2aa1a813)
 * Fixing a Password Hash Vulnerability
 ### Gather Intelligence on Vulnerabilities and Exploits
@@ -155,7 +155,7 @@
 * [The Risk Equation](http://www.icharter.org/articles/risk_equation.html)
 * [Threat Modeling](https://owasp.org/www-community/Application_Threat_Modeling)
 * [Benefits of Threat Modeling](https://resources.infosecinstitute.com/topic/6-benefits-of-cyber-threat-modeling/)
-* Step 1: Define General Security Objectives and Scope
+* Define General Security Objectives and Scope
 * Tooling and Documentation
   * [Microsoft Threat Modeling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling)
   * [OWASP Threat Dragon](https://threatdragon.org/login)
@@ -342,8 +342,17 @@ Topic C: Prevent Privacy Vulnerabilities
 
 -----
 ## References
+* [Microsoft compliance offerings](https://docs.microsoft.com/en-us/compliance/regulatory/offering-home?view=o365-worldwide) - microsoft.com
 * [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html) - iso.org
 * [NIST](https://www.nist.gov/cybersecurity) - nist.gov
 * [OWASP](https://owasp.org/) - owasp.org
+* [OWASP SAMM](https://owaspsamm.org/model/) - owaspsamm.org
 * [PCI Security Standards](https://www.pcisecuritystandards.org/) - pcisecuritystandards.org
 * [SANS](https://www.sans.org/) - sans.org
+
+## Monitoring
+* [National Cyber Awareness System (Current Activity)](https://us-cert.cisa.gov/ncas/current-activity) - cisa.gov
+* [Threat Map](https://www.fireeye.com/cyber-map/threat-map.html) - fireeye.com
+
+## Cases
+* [OpenSSL Heartbeat (Heartbleed) :tv:](https://www.youtube.com/watch?v=hTK0pywfmDE) - Fierce Outlaws
